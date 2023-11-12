@@ -1,0 +1,15 @@
+.DS_Store
+assets/.DS_Store
+
+Thumbs.db
+.vscode/       # If using Visual Studio Code
+
+node_modules/  # For Node.js projects
+dist/          # Output directory
+.idea/         # If using JetBrains IDEs
+
+.env           # Environment variables file
+.env.local     # Local overrides of environment variables
+
+*.log
+*.tmp

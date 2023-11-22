@@ -13,3 +13,4 @@ dist/          # Output directory
 
 *.log
 *.tmp
+.DS_Store
